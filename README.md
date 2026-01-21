@@ -1,5 +1,5 @@
 ----------DISCLAIMER-------------------
-This script briefly takes steamOS out of readonly mode. Proceed with caution, as you can cause serious damage!
+This script briefly takes steamOS out of read only mode. Proceed with caution, as you can cause serious damage!
 ---------------------------------------
 This is a simple script that automates the setup process for installing arch packages. 
 Open Konsole in whatever folder you saved this file to and run the command "bash ./pacman.sh"
